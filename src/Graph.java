@@ -30,8 +30,11 @@ public class Graph {
                 }
             }
         }
-
         if (!notOriented)
+            out.println("CONFLICT HERE!");
+            out.println("CONFLICT HERE!");
+            out.println("CONFLICT HERE!");
+            out.println("CONFLICT HERE!");
             out.println("CONFLICT HERE!");
         else
             out.println("YES");
