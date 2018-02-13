@@ -32,8 +32,7 @@ public class Graph {
         }
 
         if (!notOriented){
-
-            out.println("NO");
+            out.println("NONONO");
         }
             
         else
